@@ -11,7 +11,7 @@ target_compile_definitions(inchi PUBLIC TARGET_API_LIB)
 target_compile_definitions(inchi PUBLIC COMPILE_ANSI_ONLY)
 set_target_properties(inchi
   PROPERTIES
-    VERSION 1.05
+    VERSION 1.06
     SOVERSION 1
 )
 
